@@ -31,5 +31,5 @@ h1, h2, h3 {
   border: 1px solid black;
   padding: 20px;
   border-radius: 5px;
-  box-shadow: 0 0 35px white;
+  box-shadow: 0 0 50px 20px green;
 }

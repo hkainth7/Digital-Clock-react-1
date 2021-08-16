@@ -1,3 +1,5 @@
+// Attribution to react docs. Component built using tutorial
+
 import React from 'react';
 
 class Clock extends React.Component {

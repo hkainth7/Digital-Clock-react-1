@@ -37,5 +37,5 @@ class Clock extends React.Component {
     }
 }
 
-
+// export CLock component 
 export default Clock;
